@@ -1,5 +1,16 @@
 body {
-    background-color: rgb(33, 1, 1);
-    color: rgba(77, 3, 3, 0.637);
-    font-size: 40px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+    background-color: aqua;
+    height: 400px;
+    border: 2px solid black;
+    margin: 0
+}
+
+img {
+
+    width: 500px;
+    height: auto;
+    border: 2px solid black;
 }
